@@ -1,0 +1,35 @@
+{
+  "generatedAt": "2026-11-26T05:31:58.760Z",
+  "counts": {
+    "total": 800,
+    "L1": 200,
+    "L2": 300,
+    "L3": 200,
+    "L4": 100,
+    "curated": 731,
+    "auto": 69,
+    "countable": 327,
+    "uncountable": 273,
+    "both": 200
+  },
+  "sources": [
+    {
+      "name": "English Wiktionary",
+      "url": "https://en.wiktionary.org",
+      "license": "CC BY-SA 4.0",
+      "note": "見出し語の可算性・語義ラベルの参照"
+    },
+    {
+      "name": "Wikidata",
+      "url": "https://www.wikidata.org",
+      "license": "CC0 1.0",
+      "note": "自動収録語の日本語ラベル"
+    },
+    {
+      "name": "FrequencyWords",
+      "url": "https://github.com/hermitdave/FrequencyWords",
+      "license": "MIT",
+      "note": "収録語の選定に用いた頻度リスト"
+    }
+  ]
+}

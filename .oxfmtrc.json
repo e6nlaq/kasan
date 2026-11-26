@@ -1,0 +1,18 @@
+{
+  "printWidth": 100,
+  "tabWidth": 2,
+  "useTabs": false,
+  "semi": true,
+  "singleQuote": false,
+  "trailingComma": "all",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "ignorePatterns": [
+    "dist/**",
+    "node_modules/**",
+    "data/raw/**",
+    "src/routeTree.gen.ts",
+    "bun.lock",
+    "**/*.md"
+  ]
+}
